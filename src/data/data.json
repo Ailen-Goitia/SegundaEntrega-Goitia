@@ -1,0 +1,117 @@
+[
+  {
+      "id": "Alimento-01",
+      "titulo": "VitalCan Balanced",
+      "precio": 2900
+  },
+  {
+      "id": "Alimento-02",
+      "titulo": "Eucanuba Adulto",
+      "precio": 3900
+  },
+  {
+      "id": "Alimento-03",
+      "titulo": "Purina Excellent",
+      "precio": 2600
+  },
+  {
+      "id": "Alimento-04",
+      "titulo": "Purina Proplan",
+      "precio": 4900
+  },
+  {
+      "id": "Alimento-05",
+      "titulo": "Royal Canin",
+      "precio": 5000
+  },
+
+  {
+      "id": "Higiene-01",
+      "titulo": "Bandeja Sanitaria",
+      "precio": 10000
+  },
+  {
+      "id": "Higiene-02",
+      "titulo": "Kit Peluqueria",
+      "precio": 10200
+  },
+  {
+      "id": "Higiene-03",
+      "titulo": "Shapoo",
+      "precio": 1200
+  },
+  {
+      "id": "Higiene-04",
+      "titulo": "Corta Uñas",
+      "imagen": "./img/higiene/cortadoruñas.jpg",
+      "precio": 1300
+  },
+  {
+      "id": "Higiene-05",
+      "titulo": "Cepillo Dental",
+      "imagen": "./img/higiene/cepillodientes.jpg",
+      "precio": 754
+  },
+  {
+      "id": "Higiene-06",
+      "titulo": "Perfume",
+      "precio": 2200
+  },
+  {
+      "id": "Higiene-07",
+      "titulo": "Quita Pelo",
+      "precio": 1930
+  },
+  {
+      "id": "Higiene-08",
+      "titulo": "Peine",
+      "precio": 1900
+  },
+  {
+      "id": "Higiene-09",
+      "titulo": "Bolsa Recolectora",
+      "precio": 600
+  },
+  {
+      "id": "Higiene-10",
+      "titulo": "Porta Bolsa",
+      "precio": 700
+  },
+
+  {
+      "id": "Accesorios-01",
+      "titulo": "Correa Extendible azul 5m",
+      "precio": 11500
+  },
+  {
+      "id": "Accesorios-02",
+      "titulo": "Correa Rigida",
+      "precio": 3500
+  },
+  {
+      "id": "Accesorios-03",
+      "titulo": "Correa Extendible rosa 5m",
+      "precio": 4500
+  },
+  {
+      "id": "Accesorios-04",
+      "titulo": "Juguete Kong",
+      "imagen": "./img/accesorios/jugete3.jpg",
+      "precio": 2700
+  },
+  {
+      "id": "Accesorios-05",
+      "titulo": "Juguete Kong Air Dog",
+      "precio": 4000
+  },
+  {
+      "id": "Accesorios-06",
+      "titulo": "Pelota x 3",
+      "precio": 748
+  },
+  {
+      "id": "Accesorios-07",
+      "titulo": "Sommier de corderito",
+      "precio": 10100
+  }
+]
