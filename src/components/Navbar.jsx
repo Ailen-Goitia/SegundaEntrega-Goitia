@@ -1,13 +1,17 @@
 import React from "react"
+import { Link } from "react-router-dom"
 const Nabvar = () => {
     return (
         <nav className="navbar">
-            <a href="#"><h1 className="logotipo"> 🐾 NaricesFrias</h1></a>
+            <Link to="/"><h1 className="logotipo">🐾 NaricesFrias</h1></Link>
+            
             <ul className="menu"> 
-                <li><a className="menu-link" href="#">Inicio</a></li>
-                <li><a className="menu-link" href="#">Nosotros</a></li>
-                <li><a className="menu-link" href="#">Productos</a></li>
-                <li><a className="menu-link" href="#">Contacto</a></li>
+                <li><Link className="menu-link" to="/">Inicio</Link></li>
+                <li><Link className="menu-link" to="/Productos">Productos</Link></li>
+                <li><Link className="menu-link" to="/Productos/Alimentos">Alimentos</Link></li>
+                <li><Link className="menu-link" to="/Productos/Accesorios">Accesorios</Link></li>
+                <li><Link className="menu-link" to="/Productos/Higiene">Higiene</Link></li>
+                
             </ul>
         </nav>
     )

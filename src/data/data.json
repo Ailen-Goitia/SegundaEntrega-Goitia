@@ -1,117 +1,180 @@
 [
   {
-      "id": "Alimento-01",
+      "id":1,
+      "imagen":"../../img/descarga.png",
       "titulo": "VitalCan Balanced",
+      "descripcion": "..........",
+      "categoria": "Alimentos",
       "precio": 2900
+     
   },
   {
-      "id": "Alimento-02",
+      "id":2,
+      "imagen":"../../img/descarga.png",
       "titulo": "Eucanuba Adulto",
+      "descripcion": "..........",
+      "categoria": "Alimentos",
       "precio": 3900
   },
   {
-      "id": "Alimento-03",
+      "id":3,
+      "imagen":"../../img/descarga.png",
       "titulo": "Purina Excellent",
+      "descripcion": "..........",
+      "categoria": "Alimentos",
       "precio": 2600
   },
   {
-      "id": "Alimento-04",
+      "id": 4,
+      "imagen":"../../img/descarga.png",
       "titulo": "Purina Proplan",
+      "descripcion": "..........",
+      "categoria": "Alimentos",
       "precio": 4900
   },
   {
-      "id": "Alimento-05",
+      "id": 5,
+      "imagen":"../../img/descarga.png",
       "titulo": "Royal Canin",
+      "descripcion": "..........",
+      "categoria": "Alimentos",
       "precio": 5000
   },
 
   {
-      "id": "Higiene-01",
+      "id":6,
+      "imagen":"../../img/descarga.png",
       "titulo": "Bandeja Sanitaria",
+      "descripcion": "..........",
+      "categoria": "Higiene",
       "precio": 10000
   },
   {
-      "id": "Higiene-02",
+      "id":7,
+      "imagen":"../../img/descarga.png",
       "titulo": "Kit Peluqueria",
+      "descripcion": "..........",
+      "categoria": "Higiene",
       "precio": 10200
   },
   {
-      "id": "Higiene-03",
+      "id":8,
+      "imagen":"../../img/descarga.png",
       "titulo": "Shapoo",
+      "descripcion": "..........",
+      "categoria": "Higiene",
       "precio": 1200
   },
   {
-      "id": "Higiene-04",
+      "id":9,
+      "imagen":"../../img/descarga.png",
       "titulo": "Corta Uñas",
-      "imagen": "./img/higiene/cortadoruñas.jpg",
+      "descripcion": "..........",
+      "categoria": "Higiene",
       "precio": 1300
   },
   {
-      "id": "Higiene-05",
+      "id": 10,
+      "imagen":"../../img/descarga.png",
       "titulo": "Cepillo Dental",
-      "imagen": "./img/higiene/cepillodientes.jpg",
+      "descripcion": "..........",
+      "categoria": "Higiene",
       "precio": 754
   },
   {
-      "id": "Higiene-06",
+      "id":11,
+      "imagen":"../../img/descarga.png",
       "titulo": "Perfume",
+      "descripcion": "..........",
+      "categoria": "Higiene",
       "precio": 2200
   },
   {
-      "id": "Higiene-07",
+      "id": 12,
+      "imagen":"../../img/descarga.png",
       "titulo": "Quita Pelo",
+      "descripcion": "..........",
+      "categoria": "Higiene",
       "precio": 1930
   },
   {
-      "id": "Higiene-08",
+      "id":13,
+      "imagen":"../../img/descarga.png",
       "titulo": "Peine",
+      "descripcion": "..........",
+      "categoria": "Higiene",
       "precio": 1900
   },
   {
-      "id": "Higiene-09",
+      "id":14,
+      "imagen":"../../img/descarga.png",
       "titulo": "Bolsa Recolectora",
+      "descripcion": "..........",
+      "categoria": "Higiene",
       "precio": 600
   },
   {
-      "id": "Higiene-10",
+      "id": 15,
+      "imagen":"../../img/descarga.png",
       "titulo": "Porta Bolsa",
+      "descripcion": "..........",
+      "categoria": "Higiene",
       "precio": 700
   },
 
   {
-      "id": "Accesorios-01",
+      "id":16,
+      "imagen":"../../img/descarga.png",
       "titulo": "Correa Extendible azul 5m",
+      "descripcion": "..........",
+      "categoria": "Accesorios",
       "precio": 11500
   },
   {
-      "id": "Accesorios-02",
+      "id": 17,
+      "imagen":"../../img/descarga.png",
       "titulo": "Correa Rigida",
+      "descripcion": "..........",
+      "categoria": "Accesorios",
       "precio": 3500
   },
   {
-      "id": "Accesorios-03",
+      "id":18,
+      "imagen":"../../img/descarga.png",
       "titulo": "Correa Extendible rosa 5m",
+      "categoria": "Accesorios",
       "precio": 4500
   },
   {
-      "id": "Accesorios-04",
+      "id": 19,
+      "imagen":"../../img/descarga.png",
       "titulo": "Juguete Kong",
-      "imagen": "./img/accesorios/jugete3.jpg",
+      "descripcion": "..........",
+      "categoria": "Accesorios",
       "precio": 2700
   },
   {
-      "id": "Accesorios-05",
+      "id": 20,
+      "imagen":"../../img/descarga.png",
       "titulo": "Juguete Kong Air Dog",
+      "descripcion": "..........",
+      "categoria": "Accesorios",
       "precio": 4000
   },
   {
-      "id": "Accesorios-06",
+      "id":21,
+      "imagen":"../../img/descarga.png",
       "titulo": "Pelota x 3",
+      "descripcion": "..........",
+      "categoria": "Accesorios",
       "precio": 748
   },
   {
-      "id": "Accesorios-07",
+      "id": 22,
+      "imagen":"../../img/descarga.png",
       "titulo": "Sommier de corderito",
-      "precio": 10100
+      "descripcion": "..........",
+      "categoria": "Accesorios",
+      "precio": 10100 
   }
 ]
