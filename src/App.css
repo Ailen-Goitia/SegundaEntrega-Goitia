@@ -121,3 +121,9 @@
   background-color: black;
   color: white;
 }
+
+.carrito{
+  background-color:rgb(165, 158, 205);
+  border-radius: 3px;
+  font-size: large;
+}
