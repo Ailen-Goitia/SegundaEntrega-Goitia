@@ -5,7 +5,8 @@
       "titulo": "VitalCan Balanced",
       "descripcion": "..........",
       "categoria": "Alimentos",
-      "precio": 2900
+      "precio": 2900,
+      "stock":15
      
   },
   {
@@ -14,7 +15,8 @@
       "titulo": "Eucanuba Adulto",
       "descripcion": "..........",
       "categoria": "Alimentos",
-      "precio": 3900
+      "precio": 3900,
+      "stock":15
   },
   {
       "id":3,
@@ -22,7 +24,8 @@
       "titulo": "Purina Excellent",
       "descripcion": "..........",
       "categoria": "Alimentos",
-      "precio": 2600
+      "precio": 2600,
+      "stock":15
   },
   {
       "id": 4,
@@ -30,7 +33,8 @@
       "titulo": "Purina Proplan",
       "descripcion": "..........",
       "categoria": "Alimentos",
-      "precio": 4900
+      "precio": 4900,
+      "stock":15
   },
   {
       "id": 5,
@@ -38,7 +42,8 @@
       "titulo": "Royal Canin",
       "descripcion": "..........",
       "categoria": "Alimentos",
-      "precio": 5000
+      "precio": 5000,
+      "stock":15
   },
 
   {
@@ -47,7 +52,8 @@
       "titulo": "Bandeja Sanitaria",
       "descripcion": "..........",
       "categoria": "Higiene",
-      "precio": 10000
+      "precio": 10000,
+      "stock":15
   },
   {
       "id":7,
@@ -55,7 +61,8 @@
       "titulo": "Kit Peluqueria",
       "descripcion": "..........",
       "categoria": "Higiene",
-      "precio": 10200
+      "precio": 10200,
+      "stock":15
   },
   {
       "id":8,
@@ -63,7 +70,8 @@
       "titulo": "Shapoo",
       "descripcion": "..........",
       "categoria": "Higiene",
-      "precio": 1200
+      "precio": 1200,
+      "stock":15
   },
   {
       "id":9,
@@ -71,7 +79,8 @@
       "titulo": "Corta Uñas",
       "descripcion": "..........",
       "categoria": "Higiene",
-      "precio": 1300
+      "precio": 1300,
+      "stock":15
   },
   {
       "id": 10,
@@ -79,7 +88,8 @@
       "titulo": "Cepillo Dental",
       "descripcion": "..........",
       "categoria": "Higiene",
-      "precio": 754
+      "precio": 754,
+      "stock":15
   },
   {
       "id":11,
@@ -87,7 +97,8 @@
       "titulo": "Perfume",
       "descripcion": "..........",
       "categoria": "Higiene",
-      "precio": 2200
+      "precio": 2200,
+      "stock":15
   },
   {
       "id": 12,
@@ -95,7 +106,8 @@
       "titulo": "Quita Pelo",
       "descripcion": "..........",
       "categoria": "Higiene",
-      "precio": 1930
+      "precio": 1930,
+      "stock":15
   },
   {
       "id":13,
@@ -103,7 +115,8 @@
       "titulo": "Peine",
       "descripcion": "..........",
       "categoria": "Higiene",
-      "precio": 1900
+      "precio": 1900,
+      "stock":15
   },
   {
       "id":14,
@@ -111,7 +124,8 @@
       "titulo": "Bolsa Recolectora",
       "descripcion": "..........",
       "categoria": "Higiene",
-      "precio": 600
+      "precio": 600,
+      "stock":15
   },
   {
       "id": 15,
@@ -119,7 +133,8 @@
       "titulo": "Porta Bolsa",
       "descripcion": "..........",
       "categoria": "Higiene",
-      "precio": 700
+      "precio": 700,
+      "stock":15
   },
 
   {
@@ -128,7 +143,8 @@
       "titulo": "Correa Extendible azul 5m",
       "descripcion": "..........",
       "categoria": "Accesorios",
-      "precio": 11500
+      "precio": 11500,
+      "stock":15
   },
   {
       "id": 17,
@@ -136,14 +152,16 @@
       "titulo": "Correa Rigida",
       "descripcion": "..........",
       "categoria": "Accesorios",
-      "precio": 3500
+      "precio": 3500,
+      "stock":15
   },
   {
       "id":18,
       "imagen":"../../img/descarga.png",
       "titulo": "Correa Extendible rosa 5m",
       "categoria": "Accesorios",
-      "precio": 4500
+      "precio": 4500,
+      "stock":15
   },
   {
       "id": 19,
@@ -151,7 +169,8 @@
       "titulo": "Juguete Kong",
       "descripcion": "..........",
       "categoria": "Accesorios",
-      "precio": 2700
+      "precio": 2700,
+      "stock":15
   },
   {
       "id": 20,
@@ -159,7 +178,8 @@
       "titulo": "Juguete Kong Air Dog",
       "descripcion": "..........",
       "categoria": "Accesorios",
-      "precio": 4000
+      "precio": 4000,
+      "stock":15
   },
   {
       "id":21,
@@ -167,7 +187,8 @@
       "titulo": "Pelota x 3",
       "descripcion": "..........",
       "categoria": "Accesorios",
-      "precio": 748
+      "precio": 748,
+      "stock":15
   },
   {
       "id": 22,
@@ -175,6 +196,7 @@
       "titulo": "Sommier de corderito",
       "descripcion": "..........",
       "categoria": "Accesorios",
-      "precio": 10100 
+      "precio": 10100,
+      "stock":15 
   }
 ]
