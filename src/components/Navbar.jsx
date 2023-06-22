@@ -14,7 +14,7 @@ const Nabvar = () => {
                 <li><Link className="menu-link" to="/Productos/Accesorios">Accesorios</Link></li>
                 <li><Link className="menu-link" to="/Productos/Higiene">Higiene</Link></li>
                 <li><Link className="menu-link" to="/Contacto">Contacto</Link></li>
-                <li className="carrito"><CartWidget/></li>
+                <li><CartWidget/></li>
             </ul>
         </nav>
     )
