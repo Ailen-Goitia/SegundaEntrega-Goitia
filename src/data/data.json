@@ -1,9 +1,9 @@
 [
   {
       "id":1,
-      "imagen":"../../public/img/desktop_vital-can-balanced.png",
+      "imagen":"../img/desktop_vital-can-balanced.png",
       "titulo": "VitalCan Balanced",
-      "descripcion": "..........",
+      "descripcion": "La línea Balanced, está formulada para lograr un óptimo equilibrio orgánico y estructural en la adultez",
       "categoria": "Alimentos",
       "precio": 2900,
       "stock":15
@@ -11,36 +11,36 @@
   },
   {
       "id":2,
-      "imagen":"../../public/img/eukanuba.png",
+      "imagen":"../img/eukanuba.png",
       "titulo": "Eucanuba Adulto",
-      "descripcion": "..........",
+      "descripcion": "Eukanuba Adulto Large Breed alimento balanceado completo para perros adultos de más de 12 meses de edad en el caso de razas grandes o 24 meses para razas gigantes",
       "categoria": "Alimentos",
       "precio": 3900,
       "stock":15
   },
   {
       "id":3,
-      "imagen":"../../public/img/EXCELLENT.jpg",
+      "imagen":"../img/EXCELLENT.jpg",
       "titulo": "Purina Excellent",
-      "descripcion": "..........",
+      "descripcion": "Alimento completo y balanceado premium para perros adultos de razas mediana y grandes.",
       "categoria": "Alimentos",
       "precio": 2600,
       "stock":15
   },
   {
       "id": 4,
-      "imagen":"../../public/img/PROPLAN.png",
+      "imagen":"../img/PROPLAN.png",
       "titulo": "Purina Proplan",
-      "descripcion": "..........",
+      "descripcion": "Purina Pro Plan Provee nutrición de avanzada que ayuda a los perros a mantenerse fuertes y llenos de vitalidad.",
       "categoria": "Alimentos",
       "precio": 4900,
       "stock":15
   },
   {
       "id": 5,
-      "imagen":"../../public/img/royal.jpeg",
+      "imagen":"../img/royal.jpeg",
       "titulo": "Royal Canin",
-      "descripcion": "..........",
+      "descripcion": "Royal Canin Maxi Adulto contribuye a una óptima digestibilidad y a mantener una piel saludable gracias a su fórmula enriquecida con ácidos grasos Omega 3 (EPA y DHA), y ayuda a mantener huesos y articulaciones saludables en perros de talla grande",
       "categoria": "Alimentos",
       "precio": 5000,
       "stock":15
@@ -48,90 +48,90 @@
 
   {
       "id":6,
-      "imagen":"../../public/img/bandeja.jpg",
+      "imagen":"../img/bandeja.jpg",
       "titulo": "Bandeja Sanitaria",
-      "descripcion": "..........",
+      "descripcion": "Tu casa limpia, tu perro feliz y decidiendo cuando quiere hacer sus cosas!. Es práctica, segura, combina muy bien en interiores y funciona para exteriores también",
       "categoria": "Higiene",
       "precio": 10000,
       "stock":15
   },
   {
       "id":7,
-      "imagen":"../../public/img/Kit.jpg",
+      "imagen":"../img/Kit.jpg",
       "titulo": "Kit Peluqueria",
-      "descripcion": "..........",
+      "descripcion": "kit inicial combo tijeras + peine ideal peluqueria canina o uso doméstico",
       "categoria": "Higiene",
       "precio": 10200,
       "stock":15
   },
   {
       "id":8,
-      "imagen":"../../public/img/shampoo.jpg",
+      "imagen":"../img/shampoo.jpg",
       "titulo": "Shampoo",
-      "descripcion": "..........",
+      "descripcion": "Humecta, suaviza, da cuerpo y brillo. Indicado en parasitosis. Pulguicida.Garrapaticida.Piojicida.",
       "categoria": "Higiene",
       "precio": 1200,
       "stock":15
   },
   {
       "id":9,
-      "imagen":"../../public/img/cortaUñas.jpg",
+      "imagen":"../img/cortaUñas.jpg",
       "titulo": "Corta Uñas",
-      "descripcion": "..........",
+      "descripcion": "El Alicate Corta Uñas Ferplast es una herramienta indispensable para mantener las patitas de tu amigo siempre perfectas y saludables. Diseñado con un sistema de guillotina de alta calidad, este cortador es seguro y fácil de usar para mantener las uñas de tu perro en perfectas condiciones",
       "categoria": "Higiene",
       "precio": 1300,
       "stock":15
   },
   {
       "id": 10,
-      "imagen":"../../public/img/cepillo-dental.jpg",
+      "imagen":"../img/cepillo-dental.jpg",
       "titulo": "Cepillo Dental",
-      "descripcion": "..........",
+      "descripcion": "Juego de 2 cepillos dientes para dedo. Juego que incluye un cepillo de dientes y un cepillo masajeador de encías.",
       "categoria": "Higiene",
       "precio": 754,
       "stock":15
   },
   {
       "id":11,
-      "imagen":"../../public/img/perfume.jpg",
+      "imagen":"../img/perfume.jpg",
       "titulo": "Perfume",
-      "descripcion": "..........",
+      "descripcion": "Perfuma con fina y persistente fragancia que resalta toda la belleza y el magnetismo de los perros y gatos",
       "categoria": "Higiene",
       "precio": 2200,
       "stock":15
   },
   {
       "id": 12,
-      "imagen":"../../public/img/Quita Pelo.jpg",
+      "imagen":"../img/Quita Pelo.jpg",
       "titulo": "Quita Pelo",
-      "descripcion": "..........",
+      "descripcion": "Diseño ergonómico - Cerdas dobladas de alambre - Mango de goma liviano y suave - Herramienta liviana",
       "categoria": "Higiene",
       "precio": 1930,
       "stock":15
   },
   {
       "id":13,
-      "imagen":"../../public/img/peine.jpg",
+      "imagen":"../img/peine.jpg",
       "titulo": "Peine",
-      "descripcion": "..........",
+      "descripcion": "A diferencia de otros cepillos protege la piel de tu mascota del daño de las puntas filosas de los alambres",
       "categoria": "Higiene",
       "precio": 1900,
       "stock":15
   },
   {
       "id":14,
-      "imagen":"../../public/img/bolsitas.png",
+      "imagen":"../img/bolsitas.png",
       "titulo": "Bolsa Recolectora",
-      "descripcion": "..........",
+      "descripcion": "Las Bolsas hacen la tarea de recoger los desechos de su perro más fácil y cómodo.  Bolsa para perros respetuosa con el medio ambiente: nuestra bolsa para perros se degrada por biodegradación 100% específica de oxígeno, que es más probable que se descomponga que las bolsas de basura ordinarias, que es la mejor manera ambiental de garantizar la limpieza mientras camina con el perro y se mantiene limpio y Respetuoso con el medio ambiente, nuestro punto de partida es proteger nuestro medio ambiente",
       "categoria": "Higiene",
       "precio": 600,
       "stock":15
   },
   {
       "id": 15,
-      "imagen":"../../public/img/portabolsa.jpg",
+      "imagen":"../img/portabolsa.jpg",
       "titulo": "Porta Bolsa",
-      "descripcion": "..........",
+      "descripcion": "Porta bolsitas para llevar cuando pasea a su perro. Trae gancho para abrocharlo al collar pretal o la correa. Incluye 2 rollitos de bolsas. Excelente calidad. Indispensables para levantar los desechos de las mascotas",
       "categoria": "Higiene",
       "precio": 700,
       "stock":15
@@ -139,62 +139,63 @@
 
   {
       "id":16,
-      "imagen":"../../public/img/Correa Extendible azul 5m.jpeg",
-      "titulo": "Correa Extendible azul 5m",
-      "descripcion": "..........",
+      "imagen":"../img/Correa Extendible azul 5m.jpeg",
+      "titulo": "Correa Exte azul 5m",
+      "descripcion": "La correa extensible da libertad a tu perro al caminar y tranquilidad a quien lo pasea",
       "categoria": "Accesorios",
       "precio": 11500,
       "stock":15
   },
   {
       "id": 17,
-      "imagen":"../../public/img/Correa Rigida.jpg",
+      "imagen":"../img/Correa Rigida.jpg",
       "titulo": "Correa Rigida",
-      "descripcion": "..........",
+      "descripcion": "Calidad Premium varias líneas de remaches reforzados, no se zafa. Mosquetón extra reforzado cromado no se oxida. Engancha en collar, pretal o arnés",
       "categoria": "Accesorios",
       "precio": 3500,
       "stock":15
   },
   {
       "id":18,
-      "imagen":"../../public/img/CORREA-EXTENSIBLE-FLEXI-5-M-ROSA.jpg",
-      "titulo": "Correa Extendible rosa 5m",
+      "imagen":"../img/CORREA-EXTENSIBLE-FLEXI-5-M-ROSA.jpg",
+      "titulo": "Correa Exte rosa 5m",
+      "descripcion": "La correa extensible da libertad a tu perro al caminar y tranquilidad a quien lo pasea",
       "categoria": "Accesorios",
       "precio": 4500,
       "stock":15
   },
   {
       "id": 19,
-      "imagen":"../../public/img/Juguete Kong.jpg",
+      "imagen":"../img/Juguete Kong.jpg",
       "titulo": "Juguete Kong",
-      "descripcion": "..........",
+      "descripcion": "El juguete para perros KONG Extreme es un ejemplo del caucho más resistente de KONG. El KONG Extreme está diseñado para los masticadores más tenaces, aporta beneficios y ayuda a satisfacer las necesidades instintivas de los perros. La exclusiva fórmula de caucho ultraduradero completamente natural de KONG está diseñada para masticadores decididos, y sus rebotes erráticos satisfacen las necesidades de juego de cualquier perro",
       "categoria": "Accesorios",
       "precio": 2700,
       "stock":15
   },
   {
       "id": 20,
-      "imagen":"../../public/img/Juguete Kong Air Dog.jpg",
+      "imagen":"../img/Juguete Kong Air Dog.jpg",
       "titulo": "Juguete Kong Air Dog",
-      "descripcion": "..........",
+      "descripcion": "El juguete Kong Air Dog combina dos clásicos juguetes del perro, la pelota de tenis y el juguete sonajero y las une en una forma de hueso inmediatamente reconocible para crear la perfecta recogida de los juguetes",
       "categoria": "Accesorios",
       "precio": 4000,
       "stock":15
   },
   {
       "id":21,
-      "imagen":"../../public/img/Pelota x 3.jpg",
+      "imagen":"../img/Pelota x 3.jpg",
       "titulo": "Pelota x 3",
-      "descripcion": "..........",
+      "descripcion": "La KONG SqueakAir® Ball combina dos juguetes clásicos para perros que la hacen perfecta para el juego de buscar y recoger: la pelota de tenis y el chirriador. Nuestra Squeak air® Tennis Ball, de alta calidad y gran durabilidad, no desgastará los dientes de su perro. Está fabricada con un fieltro no abrasivo especial.",
       "categoria": "Accesorios",
       "precio": 748,
       "stock":15
   },
   {
       "id": 22,
-      "imagen":"../../public/img/corderito.jpg",
+      "imagen":"../img/corderito.jpg",
       "titulo": "Sommier de corderito",
-      "descripcion": "..........",
+      "descripcion": "Colchón para perros y gatos marca Rafine con doble funda desmontable. La funda exterior es de corderito super suave y dentro el colchón posee una funda impermeable.",
       "categoria": "Accesorios",
       "precio": 10100,
       "stock":15 
