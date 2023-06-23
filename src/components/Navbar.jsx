@@ -8,7 +8,6 @@ const Nabvar = () => {
             
             <ul className="menu"> 
                 <li><Link className="menu-link" to="/">Inicio</Link></li>
-                <li><Link className="menu-link" to="/Nosotros">Nosotros</Link></li>
                 <li><Link className="menu-link" to="/Productos">Productos</Link></li>
                 <li><Link className="menu-link" to="/Productos/Alimentos">Alimentos</Link></li>
                 <li><Link className="menu-link" to="/Productos/Accesorios">Accesorios</Link></li>

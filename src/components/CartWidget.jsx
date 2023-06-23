@@ -7,8 +7,8 @@ const CartWidget = () => {
   return (
     <div>
       <Link className="menu-link" to="/Carrito">
-        Carrito 
-        <span className="numero-carrito">{cantidadProductosEnCarrito()}</span>
+       🛒
+      <span className="numero-carrito">{cantidadProductosEnCarrito()}</span>
       </Link>
     </div>
   )

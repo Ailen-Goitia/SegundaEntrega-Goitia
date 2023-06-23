@@ -25,12 +25,17 @@ export const CartProvider = ({children}) => {
     }
     
     const cantidadProductosEnCarrito = () => {
-      return carrito.reduce((acc,prod)=> acc + prod.cantidad,0);
-    }
+      let cant = 0
+      carrito.forEach((e) => cant += e.cantidad)
+      return cant
+    };
+    
   
     const precioFinal = () => {
-      return carrito.reduce((acc,prod)=> acc + prod.precio * prod.cantidad, 0);
-    }
+      let total = 0
+      carrito.forEach((e) => total += (e.cantidad+e.precio))
+      return total 
+    };
   
     const funcionVaciarCarrito = () => {
       setCarrito([]);

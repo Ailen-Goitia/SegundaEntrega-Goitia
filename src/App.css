@@ -176,3 +176,43 @@
   border-radius: .5rem;
   border: 2px solid black;
 }
+
+.contenedor-carrito{
+  display: flex;
+  justify-content: space-between;
+  background-color: #b6b7c9;
+  color: black;
+  align-items: center;
+  padding: 0.5rem;
+  padding-right: 1.5rem;
+  border-radius: 1rem;
+  align-items: center;
+  cursor: pointer;
+}
+.carrito-producto-imagen {
+  width: 3rem;
+  border-radius: 1rem;
+}
+
+.carrito-acciones-vaciar {
+  border: 0;
+  background-color: rgb(94, 72, 207);
+  color: white;
+  padding: 1rem;
+  border-radius: 1rem;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.carrito-acciones-vaciar:hover{
+  background-color: white;
+  color: black;
+}
+
+.numero-carrito{
+  background-color: white;
+  color: #4143b9;;
+  padding: 0.10rem 0.20rem;
+  border-radius: 0.25rem;
+}
+
