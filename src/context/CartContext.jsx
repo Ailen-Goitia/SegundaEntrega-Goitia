@@ -8,7 +8,7 @@ const carritoInicial = JSON.parse(localStorage.getItem("carrito")) || [];
 export const CartProvider = ({children}) => {
 
 
-    const [carrito, setCarrito] = useState ([carritoInicial]);
+    const [carrito, setCarrito] = useState (carritoInicial);
   
     const agregarCarrito = (item, cantidad) => {
       const productoAgregado = {...item,cantidad};
@@ -21,7 +21,7 @@ export const CartProvider = ({children}) => {
       }else {
         nuevoCarrito.push(productoAgregado);
       }
-      setCarrito([nuevoCarrito]);
+      setCarrito(nuevoCarrito);
     }
     
     const cantidadProductosEnCarrito = () => {
