@@ -1,7 +1,7 @@
 [
   {
       "id":1,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/desktop_vital-can-balanced.png",
       "titulo": "VitalCan Balanced",
       "descripcion": "..........",
       "categoria": "Alimentos",
@@ -11,7 +11,7 @@
   },
   {
       "id":2,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/eukanuba.png",
       "titulo": "Eucanuba Adulto",
       "descripcion": "..........",
       "categoria": "Alimentos",
@@ -20,7 +20,7 @@
   },
   {
       "id":3,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/EXCELLENT.jpg",
       "titulo": "Purina Excellent",
       "descripcion": "..........",
       "categoria": "Alimentos",
@@ -29,7 +29,7 @@
   },
   {
       "id": 4,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/PROPLAN.png",
       "titulo": "Purina Proplan",
       "descripcion": "..........",
       "categoria": "Alimentos",
@@ -38,7 +38,7 @@
   },
   {
       "id": 5,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/royal.jpeg",
       "titulo": "Royal Canin",
       "descripcion": "..........",
       "categoria": "Alimentos",
@@ -48,7 +48,7 @@
 
   {
       "id":6,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/bandeja.jpg",
       "titulo": "Bandeja Sanitaria",
       "descripcion": "..........",
       "categoria": "Higiene",
@@ -57,7 +57,7 @@
   },
   {
       "id":7,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/Kit.jpg",
       "titulo": "Kit Peluqueria",
       "descripcion": "..........",
       "categoria": "Higiene",
@@ -66,8 +66,8 @@
   },
   {
       "id":8,
-      "imagen":"../../img/descarga.png",
-      "titulo": "Shapoo",
+      "imagen":"../../public/img/shampoo.jpg",
+      "titulo": "Shampoo",
       "descripcion": "..........",
       "categoria": "Higiene",
       "precio": 1200,
@@ -75,7 +75,7 @@
   },
   {
       "id":9,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/cortaUñas.jpg",
       "titulo": "Corta Uñas",
       "descripcion": "..........",
       "categoria": "Higiene",
@@ -84,7 +84,7 @@
   },
   {
       "id": 10,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/cepillo-dental.jpg",
       "titulo": "Cepillo Dental",
       "descripcion": "..........",
       "categoria": "Higiene",
@@ -93,7 +93,7 @@
   },
   {
       "id":11,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/perfume.jpg",
       "titulo": "Perfume",
       "descripcion": "..........",
       "categoria": "Higiene",
@@ -102,7 +102,7 @@
   },
   {
       "id": 12,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/Quita Pelo.jpg",
       "titulo": "Quita Pelo",
       "descripcion": "..........",
       "categoria": "Higiene",
@@ -111,7 +111,7 @@
   },
   {
       "id":13,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/peine.jpg",
       "titulo": "Peine",
       "descripcion": "..........",
       "categoria": "Higiene",
@@ -120,7 +120,7 @@
   },
   {
       "id":14,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/bolsitas.png",
       "titulo": "Bolsa Recolectora",
       "descripcion": "..........",
       "categoria": "Higiene",
@@ -129,7 +129,7 @@
   },
   {
       "id": 15,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/portabolsa.jpg",
       "titulo": "Porta Bolsa",
       "descripcion": "..........",
       "categoria": "Higiene",
@@ -139,7 +139,7 @@
 
   {
       "id":16,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/Correa Extendible azul 5m.jpeg",
       "titulo": "Correa Extendible azul 5m",
       "descripcion": "..........",
       "categoria": "Accesorios",
@@ -148,7 +148,7 @@
   },
   {
       "id": 17,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/Correa Rigida.jpg",
       "titulo": "Correa Rigida",
       "descripcion": "..........",
       "categoria": "Accesorios",
@@ -157,7 +157,7 @@
   },
   {
       "id":18,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/CORREA-EXTENSIBLE-FLEXI-5-M-ROSA.jpg",
       "titulo": "Correa Extendible rosa 5m",
       "categoria": "Accesorios",
       "precio": 4500,
@@ -165,7 +165,7 @@
   },
   {
       "id": 19,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/Juguete Kong.jpg",
       "titulo": "Juguete Kong",
       "descripcion": "..........",
       "categoria": "Accesorios",
@@ -174,7 +174,7 @@
   },
   {
       "id": 20,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/Juguete Kong Air Dog.jpg",
       "titulo": "Juguete Kong Air Dog",
       "descripcion": "..........",
       "categoria": "Accesorios",
@@ -183,7 +183,7 @@
   },
   {
       "id":21,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/Pelota x 3.jpg",
       "titulo": "Pelota x 3",
       "descripcion": "..........",
       "categoria": "Accesorios",
@@ -192,7 +192,7 @@
   },
   {
       "id": 22,
-      "imagen":"../../img/descarga.png",
+      "imagen":"../../public/img/corderito.jpg",
       "titulo": "Sommier de corderito",
       "descripcion": "..........",
       "categoria": "Accesorios",
