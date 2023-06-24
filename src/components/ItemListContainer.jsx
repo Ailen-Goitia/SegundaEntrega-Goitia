@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { solicitarDatos } from "../helpers/solicitarDatos";
 import ItemList from "./ItemList";
+import {collection, getDocs} from "firebase/firestore";
+import {db} from "../firebase/config";
 
 const ItemListContainer = () => {
     
@@ -10,16 +11,19 @@ const ItemListContainer = () => {
     const categoria = useParams().categoria; 
 
     useEffect(() => {
-      solicitarDatos()
-      .then ((res) =>{
-        if (categoria){
-          setProductos(res.filter((prod)=> prod.categoria === categoria));
-          setTitulo(categoria);
-        }else{
-          setProductos(res);
-          setTitulo ("Productos");
-        }
+
+      const productosReferencia = collection (db,"productos");
+
+      getDocs(productosReferencia)
+      .then((resp) => {
+
+        setProductos(
+          resp.docs.map((doc)=> {
+            return {...doc.data(), id: doc.id}
+          })
+        )
       })
+
     }, [categoria])
     
     return (

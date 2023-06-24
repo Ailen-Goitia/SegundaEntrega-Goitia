@@ -33,7 +33,7 @@ export const CartProvider = ({children}) => {
   
     const precioFinal = () => {
       let total = 0
-      carrito.forEach((e) => total += (e.cantidad+e.precio))
+      carrito.forEach((e) => total += (e.cantidad*e.precio))
       return total 
     };
   

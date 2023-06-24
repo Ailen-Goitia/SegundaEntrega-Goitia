@@ -7,8 +7,7 @@
       "categoria": "Alimentos",
       "precio": 2900,
       "stock":15
-     
-  },
+    },
   {
       "id":2,
       "imagen":"../img/eukanuba.png",

@@ -14,7 +14,16 @@
 
 .main-title {
   margin-top: 2rem;
+  margin-bottom: 30px;
+  font-size: xx-large;
 }
+
+.main-title-contacto {
+  margin-top: 2rem;
+  margin-bottom: 30px;
+  margin-left: 470px;
+}
+
 
 .navbar {
   padding: 2rem;
@@ -174,15 +183,23 @@
   margin-top: 1rem;
   padding: 1rem;
 }
+.enviar{
+  margin-bottom: 30px;
+}
+
 .formulario-de-contacto {
   display: flex;
   flex-direction: column;
   gap: .5rem;
-  align-items: flex-start;
+  align-items: center;
+  background-color:rgb(165, 158, 205);
+  border-radius: .5rem;
+  border: 2px solid black;
 }
 
 .formulario-de-contacto input {
   padding: .5rem;
+  margin-top: 30px;
   width: 18rem;
   border-radius: .5rem;
   border: 2px solid black;
@@ -201,8 +218,10 @@
   cursor: pointer;
 }
 .carrito-producto-imagen {
-  width: 3rem;
+  width: 100px;
+  height: 100px;
   border-radius: 1rem;
+  object-fit:contain;
 }
 
 .producto-imagen-descripcion{
@@ -224,6 +243,8 @@
   background-color: rgb(94, 72, 207);
   color: white;
   padding: 1rem;
+  margin-left:70px;
+  margin-top: 20px;
   border-radius: 1rem;
   text-transform: uppercase;
   cursor: pointer;

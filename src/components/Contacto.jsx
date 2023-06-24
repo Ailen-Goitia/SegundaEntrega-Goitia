@@ -10,7 +10,7 @@ const enviar = (dato) => {
 
   return (
     <div className="container">
-        <h1 className="main-title">Contacto</h1>
+        <h1 className="main-title-contacto">Contacto</h1>
         <form className="formulario-de-contacto" onSubmit={handleSubmit(enviar)}>
             <input type="text" placeholder="Ingrese tu nombre completo" {...register("nombre")} />
             <input type="email" placeholder="Ingrese tu e-mail" {...register("email")} />
